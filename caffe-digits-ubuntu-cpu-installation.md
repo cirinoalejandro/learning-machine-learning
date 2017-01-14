@@ -15,7 +15,7 @@ In your console:
 
 (wait a few seconds for the server to get up)
 
-browse http://localhost:34448
+browse [http://localhost:34448](http://localhost:34448)
 
 DIGITS should load
 
