@@ -39,6 +39,6 @@ Connect the images folder to the docker instance:
 
 Now DIGITS has access to /tmp/images with all the images in the repo.
 
-Follow the repo's guide to create dataset and model.
+Follow the @humphd's guide to create dataset and model.
 
 When training the model using CPU, some computers might hang completely, consuming 100% CPU and memory, just wait for it.
