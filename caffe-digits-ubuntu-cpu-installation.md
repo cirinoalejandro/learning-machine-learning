@@ -1,4 +1,4 @@
-Install [Caffe](http://caffe.berkeleyvision.org/) + [DIGITS](https://developer.nvidia.com/digits) for CPU in Ubuntu 16.04
+Installing [Caffe](http://caffe.berkeleyvision.org/) + [DIGITS](https://developer.nvidia.com/digits) for CPU in Ubuntu 16.04
 ==============================================
 
 Instructions to install DIGITS to follow [@humphd's "Have Fun with Machine Learning: A Guide for Beginners"](https://github.com/humphd/have-fun-with-machine-learning/blob/master/README.md).
